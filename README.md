@@ -1,3 +1,4 @@
+![Icon](Icon.png)
 # ToastedNetwork
 A wrapper around Lidgren.Network allowing to send packet objects. Designed to be Event-based for games and applications
 
